@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Angie Bragg
  *        Date: Sept 7 5:37pm EST
- * Description: Add Description
+ * Description: Learning to program GitLab
  */
 
 #include <iostream>
